@@ -8,3 +8,7 @@ promt:A mysterious spy with faint blue facial camouflage, rendered in a style re
 Image_02 & image 03
 AI used: Stable Diffusion
 promt:A breathtaking amazing creature with irresistibly adorable features hiding a fiercely wicked spirit. Visualized through a duality-of-light-and-dark aesthetic: demon-angel, mythiccore, pale mystic elements, glowing atmospheric backdrop, drifting falling-core vibe. Ultra-realistic and richly detailed, emotionally intense, with grand cinematic illumination. Presented in extreme high-resolution 32K UHD, in a style reminiscent of DAZ3D and DamShelma.
+
+Image_04
+AI used: Kandinsky
+promp: Импрессионистская картина на холсте с видом цветущего поля, выполненная в манере Ван Гога, с тёплой палитрой и тонкими, изящными мазками кисти —ar 1:2 —stylize 750
