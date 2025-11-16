@@ -12,3 +12,12 @@ promt:A breathtaking amazing creature with irresistibly adorable features hiding
 Image_04
 AI used: Kandinsky
 promp: Импрессионистская картина на холсте с видом цветущего поля, выполненная в манере Ван Гога, с тёплой палитрой и тонкими, изящными мазками кисти —ar 1:2 —stylize 750
+
+Song "The city light"
+Musing AI: Suno
+promt by deepseek: 
+[Style] Indie folk, acoustic, melancholic, singer-songwriter, soft male vocal with falsetto, atmospheric, introspective
+[Instrumental] Fingerpicked acoustic guitar, subtle ambient pads, light tremolo electric guitar, soft brushed drums, double bass
+[Structure] Verse, Chorus, Verse, Chorus, Bridge, Instrumental break, Outro
+[Lyrics] (Verse 1) The city lights bleed through the window pane / A silent movie in the falling rain / I trace your name upon the foggy glass / A fleeting memory I know won't last (Chorus) And oh, the quiet hum of being alone / Is a frequency I've come to know / A static portrait on a dusty shelf / I'm just learning to be by myself
+[Sound] Lofi, warm, intimate, spacious mix, vinyl crackle
